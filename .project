@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>SampleGitPrac</name>
+=======
+	<name>com.crm.TEST</name>
+>>>>>>> branch 'master' of https://github.com/vvk1612/SDET25.git
 	<comment></comment>
 	<projects>
 	</projects>
